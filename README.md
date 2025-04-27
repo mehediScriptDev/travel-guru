@@ -40,7 +40,7 @@ I'm still actively learning **backend development** (Node.js, Express, MongoDB) 
 
 ```bash
 # Clone the repo
-git clone https://github.com/mahdi33-gk/travel-guru.git
+git clone https://github.com/mehediScriptDev/travel-guru.git
 
 # Navigate to the project folder
 cd travel-guru
